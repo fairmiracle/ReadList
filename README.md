@@ -9,3 +9,6 @@ Local Causal and Markov Blanket Induction for Causal Discovery and Feature Selec
 
 # Computational biology
 A large-scale evaluation of computational protein function prediction http://www.nature.com/nmeth/journal/v10/n3/full/nmeth.2340.html%3FWT.ec_id%3DNMETH-201303?message-global=remove&WT.ec_id=NMETH-201303H
+
+A comparison of the functional modules identified from time course and static PPI network data
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-339
