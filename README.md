@@ -15,3 +15,5 @@ A large-scale evaluation of computational protein function prediction http://www
 
 A comparison of the functional modules identified from time course and static PPI network data
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-339
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4791550/
