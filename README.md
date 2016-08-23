@@ -16,8 +16,8 @@ A large-scale evaluation of computational protein function prediction http://www
 A comparison of the functional modules identified from time course and static PPI network data
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-339
 
+Continuous time Bayesian networks identify Prdm1 as a negative regulator of TH17 cell differentiation in humans
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4791550/
 
 Detection of gene communities in multi-networks reveals cancer drivers
-
 http://www.nature.com/articles/srep17386#abstract
