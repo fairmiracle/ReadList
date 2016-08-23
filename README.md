@@ -20,4 +20,4 @@ Continuous time Bayesian networks identify Prdm1 as a negative regulator of TH17
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4791550/
 
 Detection of gene communities in multi-networks reveals cancer drivers
-http://www.nature.com/articles/srep17386#abstract
+http://www.nature.com/articles/srep17386
