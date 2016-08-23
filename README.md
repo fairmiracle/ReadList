@@ -17,3 +17,7 @@ A comparison of the functional modules identified from time course and static PP
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-339
 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4791550/
+
+Detection of gene communities in multi-networks reveals cancer drivers
+
+http://www.nature.com/articles/srep17386#abstract
