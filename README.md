@@ -21,3 +21,6 @@ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4791550/
 
 Detection of gene communities in multi-networks reveals cancer drivers
 http://www.nature.com/articles/srep17386
+
+The structure and dynamics of multilayer networks
+http://www.sciencedirect.com/science/article/pii/S0370157314002105
