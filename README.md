@@ -10,6 +10,9 @@ Local Causal and Markov Blanket Induction for Causal Discovery and Feature Selec
 http://www.public.asu.edu/~huanliu/papers/ijcai07.pdf
 https://users.cs.fiu.edu/~chens/PDF/WISE2015_Ha.pdf
 
+Regularization for supervised learning via the “hubNet” procedure
+http://arxiv.org/pdf/1608.05465.pdf
+
 # Computational biology
 A large-scale evaluation of computational protein function prediction http://www.nature.com/nmeth/journal/v10/n3/full/nmeth.2340.html%3FWT.ec_id%3DNMETH-201303?message-global=remove&WT.ec_id=NMETH-201303H
 
