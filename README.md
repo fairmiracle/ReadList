@@ -13,6 +13,12 @@ https://users.cs.fiu.edu/~chens/PDF/WISE2015_Ha.pdf
 Regularization for supervised learning via the “hubNet” procedure
 http://arxiv.org/pdf/1608.05465.pdf
 
+A stochastic gradient method with an exponential convergence rate for finite training sets
+https://papers.nips.cc/paper/4633-a-stochastic-gradient-method-with-an-exponential-convergence-_rate-for-finite-training-sets.pdf
+
+Accelerating stochastic gradient descent using predictive variance reduction
+https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf
+
 # Computational biology
 A large-scale evaluation of computational protein function prediction http://www.nature.com/nmeth/journal/v10/n3/full/nmeth.2340.html%3FWT.ec_id%3DNMETH-201303?message-global=remove&WT.ec_id=NMETH-201303H
 
